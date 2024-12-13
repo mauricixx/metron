@@ -1,5 +1,8 @@
-### El cuerpo presente como gatillador de rutinas técnicas en las artes mediales.
-Metron: escaneo instantáneo. Instalación interactiva.
+### El cuerpo presente como gatillador de rutinas técnicas y activaciones poéticas en las artes mediales.
+
+##### Escaneo instantáneo, sensor de distancia, . Instalación interactiva.
+
+
 
 
 ```js
