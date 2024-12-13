@@ -1,12 +1,10 @@
-### “Metron: El escáner como aparato de control.
-#### El cuerpo presente como gatillador de rutinas técnicas v/s activaciones poéticas en las artes mediales”.
+### Escaneo instantáneo.
+###### 
+Instalación interactiva en la que un sensor de proximidad mide la distancia de un usuario y activa un proceso (representado por el script ft.sh) cuando el usuario está lo suficientemente cerca.
 
 
-###### Escaneo instantáneo, sensor de distancia, . Instalación interactiva.
-###### Instalación interactiva en la que un sensor de proximidad mide la distancia de un usuario y activa un proceso (representado por el script ft.sh) cuando el usuario está lo suficientemente cerca.
-
-
-##### Código Arduino para sensor de distancia ultrasónico.
+##### 
+Código Arduino para sensor de distancia ultrasónico.
 
 ```js
 #define TRIGGER_PIN 9
@@ -33,7 +31,7 @@ void loop() {
 }
 ```
 
-
+------------------
 
 ###### 1.	Configura una conexión serial con un dispositivo (como un Arduino):
 •	Usa la biblioteca serial para conectarse al puerto especificado (/dev/ttyACM0) con una velocidad de comunicación de 9600 baudios.
