@@ -1,4 +1,6 @@
-# METRON
+### El cuerpo presente como gatillador de rutinas técnicas en las artes mediales.
+Metron: escaneo instantáneo. Instalación interactiva.
+
 
 ```js
 #define TRIGGER_PIN 9
