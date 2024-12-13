@@ -1,11 +1,9 @@
-### Escaneo instantáneo.
-###### 
+### Escaneo instantáneo. 
 Instalación interactiva en la que un sensor de proximidad mide la distancia de un usuario y activa un proceso de escaneo (representado por el script ft.sh) cuando el usuario está lo suficientemente cerca.
 
-#####
 <img src="https://raw.githubusercontent.com/mauricixx/metron/refs/heads/main/img/metron_prototipo_mam_dic_2024.jpg"/>
 
-##### Técnica:
+#### Técnica:
 Código Arduino para sensor de distancia ultrasónico.
 
 ```js
@@ -35,7 +33,7 @@ void loop() {
 
 ------------------
 
-###### 1.	Configurar la conexión serial con Arduino:
+##### 1.	Configurar la conexión serial con Arduino:
 •	Usa la biblioteca serial para conectarse al puerto especificado (/dev/ttyACM0) con una velocidad de comunicación de 9600 baudios.
 •	Si no logra establecer la conexión, muestra un error y cierra el programa.
 ###### 2.	Lee datos del puerto serial en un bucle infinito:
