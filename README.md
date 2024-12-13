@@ -33,7 +33,7 @@ void loop() {
 
 ------------------
 
-##### 1.	Configurar la conexión serial con Arduino:
+##### 1.	Configurar la conexión serial con Arduino para ejecutar script de Python en una Raspberry Pi:
 •	Usa la biblioteca serial para conectarse al puerto especificado (/dev/ttyACM0) con una velocidad de comunicación de 9600 baudios.
 •	Si no logra establecer la conexión, muestra un error y cierra el programa.
 ###### 2.	Lee datos del puerto serial en un bucle infinito:
