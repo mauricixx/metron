@@ -35,7 +35,7 @@ void loop() {
 
 ------------------
 
-###### 1.	Configura una conexión serial con un dispositivo (como un Arduino):
+###### 1.	Configurar la conexión serial con Arduino:
 •	Usa la biblioteca serial para conectarse al puerto especificado (/dev/ttyACM0) con una velocidad de comunicación de 9600 baudios.
 •	Si no logra establecer la conexión, muestra un error y cierra el programa.
 ###### 2.	Lee datos del puerto serial en un bucle infinito:
