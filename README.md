@@ -6,8 +6,19 @@ Prototípo desarrollado en el Magister de Artes Mediales de la Universidad de Ch
 
 
 #### Técnica:
-Código Arduino para sensor de distancia ultrasónico.
+Intérprete de comando sh executable.
+ft.sh (Puedes renombrarse tu archivo como quieras. Recuerda renombrarlo en los demas códigos)
+```
+#!/bin/bash
+scanimage --format jpeg --mode Color --resolution 150 -o --batch=$(date +%Y%m%d_%H%M%S)_p%04d.jpg
+```
 
+Para hacer ejecutable ft.sh escribe lo siguiente en la consola y pulsátil enter:
+```
+sudo chmod +x ft.sh
+```
+
+- Código Arduino para sensor de distancia ultrasónico.
 ```js
 #define TRIGGER_PIN 9
 #define ECHO_PIN 10
@@ -59,7 +70,7 @@ void loop() {
 
 ###### ¿Qué se requiere para que funcione?
 
-•	Un Arduino UNO conectado al puerto serial, que envíe datos de distancia en formato numérico.
+•	Arduino UNO conectado al puerto serial, que envíe datos de distancia en formato numérico.
 •	Un script de Bash (ft.sh) que el programa ejecutará al cumplirse la condición.
 •	Ajustar el puerto serial (/dev/ttyACM0) según el sistema operativo, por ejemplo, en Windows podría ser algo como COM3.
 
@@ -115,8 +126,5 @@ while True:  # Bucle infinito para leer datos continuamente.
         print(f"Error reading serial data: {e}")  
 ```
 
-.sh para escanear:
-```
-scanimage --format jpeg --mode Color --resolution 150 -o --batch=$(date +%Y%m%d_%H%M%S)_p%04d.jpg
-```
+
 
