@@ -114,3 +114,9 @@ while True:  # Bucle infinito para leer datos continuamente.
         # Maneja cualquier error que ocurra durante la lectura de los datos seriales.
         print(f"Error reading serial data: {e}")  
 ```
+
+.sh para escanear:
+```
+scanimage --format jpeg --mode Color --resolution 150 -o --batch=$(date +%Y%m%d_%H%M%S)_p%04d.jpg
+```
+
