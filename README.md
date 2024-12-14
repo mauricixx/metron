@@ -17,7 +17,7 @@ Para hacer ejecutable ft.sh escribe lo siguiente en la consola y pulsa [enter]:
 sudo chmod +x ft.sh
 ```
 
-- Código Arduino para sensor de distancia ultrasónico.
+Código Arduino para sensor de distancia ultrasónico.
 ```js
 #define TRIGGER_PIN 9
 #define ECHO_PIN 10
