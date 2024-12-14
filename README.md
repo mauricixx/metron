@@ -6,14 +6,13 @@ Prototípo desarrollado en el Magister de Artes Mediales de la Universidad de Ch
 
 
 #### Técnica:
-Intérprete de comando sh executable.
-ft.sh (Puedes renombrarse tu archivo como quieras. Recuerda renombrarlo en los demas códigos)
+Intérprete de comando sh executable ft.sh (Puedes renombrar tu archivo como quieras. Recuerda hacerlo en los demas códigos donde se señala su ruta de acceso)
 ```
 #!/bin/bash
 scanimage --format jpeg --mode Color --resolution 150 -o --batch=$(date +%Y%m%d_%H%M%S)_p%04d.jpg
 ```
 
-Para hacer ejecutable ft.sh escribe lo siguiente en la consola y pulsátil enter:
+Para hacer ejecutable ft.sh escribe lo siguiente en la consola y pulsa [enter]:
 ```
 sudo chmod +x ft.sh
 ```
