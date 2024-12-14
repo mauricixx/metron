@@ -5,7 +5,7 @@ Instalación interactiva en la que un sensor de proximidad mide la distancia de 
 Prototípo desarrollado en el Magister de Artes Mediales de la Universidad de Chile, 2024.
 
 
-#### Técnica:
+#### Proceso:
 Intérprete de comando sh executable ft.sh (Puedes renombrar tu archivo como quieras. Recuerda hacerlo en los demas códigos donde se señala su ruta de acceso)
 ```
 #!/bin/bash
@@ -124,6 +124,6 @@ while True:  # Bucle infinito para leer datos continuamente.
         # Maneja cualquier error que ocurra durante la lectura de los datos seriales.
         print(f"Error reading serial data: {e}")  
 ```
-
+<img src="https://raw.githubusercontent.com/mauricixx/metron/refs/heads/main/img/metron.gif" />
 
 
