@@ -1,3 +1,8 @@
+<div style="background-color: #000000; color: #ffffff; padding: 10px;">
+  This text might have a black background in some Markdown viewers, 
+  but not on GitHub.com.
+</div>
+
 ```markdown
  __  __ _____ _____ ____   ___  _   _ 
 |  \/  | ____|_   _|  _ \ / _ \| \ | |
