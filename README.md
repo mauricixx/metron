@@ -30,9 +30,9 @@ Instalación interactiva en la que un sensor de proximidad mide la distancia de 
 <img src="https://raw.githubusercontent.com/mauricixx/metron/refs/heads/main/img/metron_prototipo_mam_dic_2024.jpg" />
 Metron (Rolling Release). Dispositivo desarrollado en el Magister de Artes Mediales de la Universidad de Chile, 2024.
 
-```markdown
 Metron explora la relación cuerpo–tecnología desde el paradigma Humano-Máquina a través de Metron, obra medial de mi autoría. Sin ser una investigación sobre la fotografía, sí se somete al rigor de la luz y el tiempo, analizando cómo los dispositivos de captura y procesamiento de imágenes y datos redefinen representación, identidad y agencia corporal en el capitalismo tardío. Con un enfoque teórico-práctico, Metron emplea un escáner automatizado, sensores y algoritmos para registrar manos y rostros, evocando el arte rupestre paleolítico y el control por la movilidad social. Las imágenes escaneadas aluden a la vigilancia biométrica fractalizada, pero subvierten su función. El resultado son visualizaciones que oscilan entre singularidad y anonimato, proponiendo una poética que cuestiona el uso utilitario de la tecnología y abre marcos críticos para su resignificación.
-```#### Proceso:
+```
+#### Proceso:
 Intérprete de comando sh executable ft.sh (Puedes renombrar tu archivo como quieras. Recuerda hacerlo en los demas códigos donde se señala su ruta de acceso)
 ```
 #!/bin/bash
