@@ -11,17 +11,17 @@ METRON
 ```
 
 
-<div style="text-align: right"> “Soy un hombre común y corriente,
-de carne y memoria,
-de hueso y olvido.
+<div style="text-align: right"> “Soy un hombre común y corriente,</div>
+<div style="text-align: right">de carne y memoria,</div>
+<div style="text-align: right">de hueso y olvido.</div>
 
-Soy como Tú, 
-hecho de cosas 
-recordadas y olvidadas,
-rostros y manos”.
+<div style="text-align: right">Soy como Tú, </div>
+<div style="text-align: right">hecho de cosas </div>
+<div style="text-align: right">recordadas y olvidadas,</div>
+<div style="text-align: right">rostros y manos”.</div>
 
-Ferreira Gullar, 
-Homem Comum (extracto), Brasília, 1963. </div>
+<div style="text-align: right">Ferreira Gullar, </div>
+<div style="text-align: right">Homem Comum (extracto), Brasília, 1963. </div>
                                       
 
 ### Escaneo instantáneo.
