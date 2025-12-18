@@ -1,3 +1,23 @@
+ __  __ _____ _____ ____   ___  _   _ 
+|  \/  | ____|_   _|  _ \ / _ \| \ | |
+| |\/| |  _|   | | | |_) | | | |  \| |
+| |  | | |___  | | |  _ <| |_| | |\  |
+|_|  |_|_____| |_| |_| \_\\___/|_| \_|
+
+
+<div style="text-align: right"> “Soy un hombre común y corriente,
+de carne y memoria,
+de hueso y olvido.
+
+Soy como Tú, 
+hecho de cosas 
+recordadas y olvidadas,
+rostros y manos”.
+
+Ferreira Gullar, 
+Homem Comum (extracto), Brasília, 1963. </div>
+                                      
+
 ### Escaneo instantáneo.
 Instalación interactiva en la que un sensor de proximidad mide la distancia de un usuario y activa un proceso de escaneo (representado por el script ft.sh) cuando el usuario está lo suficientemente cerca.
 
