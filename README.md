@@ -7,7 +7,7 @@
 ```
 
 
-<div style="text-align: right"> “Soy un hombre común y corriente,</div>
+<div style="text-align: right"> “Soy un hombre común y corriente,
 de carne y memoria,
 de hueso y olvido.
 
@@ -17,7 +17,7 @@ recordadas y olvidadas,
 rostros y manos”.
 
 Ferreira Gullar, 
-Homem Comum (extracto), Brasília, 1963. 
+Homem Comum (extracto), Brasília, 1963. </div>
                                       
 
 ### Escaneo instantáneo.
