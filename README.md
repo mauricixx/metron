@@ -1,13 +1,13 @@
 <!--<div style="background-color: #000000; color: #ffffff; padding: 10px;">
 METRON
 </div> -->
-<pre>
+<!-- <pre>
  __  __ _____ _____ ____   ___  _   _ 
 |  \/  | ____|_   _|  _ \ / _ \| \ | |
 | |\/| |  _|   | | | |_) | | | |  \| |
 | |  | | |___  | | |  _ <| |_| | |\  |
 |_|  |_|_____| |_| |_| \_\\___/|_| \_|
-</pre>
+</pre> -->
 
 
 <div style="text-align: right"> “Soy un hombre común y corriente,</div>
