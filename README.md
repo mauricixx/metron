@@ -9,14 +9,6 @@ METRON
 |_|  |_|_____| |_| |_| \_\\___/|_| \_|
 </pre>
 
-```markdown
- __  __ _____ _____ ____   ___  _   _ 
-|  \/  | ____|_   _|  _ \ / _ \| \ | |
-| |\/| |  _|   | | | |_) | | | |  \| |
-| |  | | |___  | | |  _ <| |_| | |\  |
-|_|  |_|_____| |_| |_| \_\\___/|_| \_|
-```
-
 
 <div style="text-align: right"> “Soy un hombre común y corriente,</div>
 <div style="text-align: right">de carne y memoria,</div>
