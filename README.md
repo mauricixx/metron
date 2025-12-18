@@ -8,7 +8,7 @@ METRON
 | |  | | |___  | | |  _ <| |_| | |\  |
 |_|  |_|_____| |_| |_| \_\\___/|_| \_|
 </pre> -->
-
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/bordandocirculo.png"  width="320" height="320" />
 
 <div style="text-align: right"> “Soy un hombre común y corriente,</div>
 <div style="text-align: right">de carne y memoria,</div>
