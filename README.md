@@ -22,7 +22,7 @@ METRON
 <div style="text-align: right">Ferreira Gullar, </div>
 <div style="text-align: right">Homem Comum (extracto), Brasília, 1963. </div>
 
-### Escaneo instantáneo.
+### Resumen
 Instalación interactiva en la que un sensor de proximidad mide la distancia de un usuario y activa un proceso de escaneo (representado por el script ft.sh) cuando el usuario está lo suficientemente cerca.
 
 Metron explora la relación cuerpo–tecnología desde el paradigma Humano-Máquina a través de Metron, obra medial de mi autoría. Sin ser una investigación sobre la fotografía, sí se somete al rigor de la luz y el tiempo, analizando cómo los dispositivos de captura y procesamiento de imágenes y datos redefinen representación, identidad y agencia corporal en el capitalismo tardío. Con un enfoque teórico-práctico, Metron emplea un escáner automatizado, sensores y algoritmos para registrar manos y rostros, evocando el arte rupestre paleolítico y el control por la movilidad social. Las imágenes escaneadas aluden a la vigilancia biométrica fractalizada, pero subvierten su función. El resultado son visualizaciones que oscilan entre singularidad y anonimato, proponiendo una poética que cuestiona el uso utilitario de la tecnología y abre marcos críticos para su resignificación.
@@ -31,6 +31,15 @@ Metron explora la relación cuerpo–tecnología desde el paradigma Humano-Máqu
 
 <img src="https://raw.githubusercontent.com/mauricixx/metron/refs/heads/main/img/metron_prototipo_mam_dic_2024.jpg" />
 Metron (Rolling Release). Registro de montaje. Dispositivo versión 0.3 desarrollado en el Magister de Artes Mediales de la Universidad de Chile, 2024.
+
+### Escaneo instantáneo.
+Metron se presenta como una pieza de arte medial interactiva, entrelazando consigo el cuerpo como gatillador de su engranaje, abriendo una posible crítica social desde un diálogo poético y disruptivo. Desarrollada desde el paradigma «Humano-Máquina», la instalación emplea un dispositivo scanner automatizado, controlado por una computadora monoplaca (SBC por las siglas del anglicismo Single Board Computer) de bajo costo, sensores de movimiento y sistemas de procesamiento en tiempo real, que cuestionan cómo la tecnología redefine nuestra identidad y agencia corporal, de forma lúdica y también sometida al control por el espacio y tiempo que ella recorre como valor de cambio.
+
+Basada en referentes ancestrales como La Cueva de las Manos —donde las huellas humanas son testimonio de rituales comunitarios—, Metron traslada este gesto arquetípico al contexto tecnológico, invitando a participar y retroalimentar el trabajo y la práctica artística, abriendo la posibilidad de capturar imágenes de manos y rostros de quienes circulen y se aproximen a “la obra”. Al momento de estar frente a ella, un sensor de distancia ultrasónica envía una señal a la computadora, la cual activa el barrido del escáner, que por medio de la luz, registra, traduce y almacena una realidad análoga en digital, transformando manos y rostros en datos serializados que oscilan entre la singularidad y el anonimato.
+
+Las imágenes almacenadas (fantasmas de sí mismas) son procesadas con algoritmos en tiempo real, generando composiciones visuales promediadas entre sí, fractalizadas y moduladas. Este flujo técnico no sólo replica conceptual y mecánicamente sistemas de vigilancia biométrica, sino que los subvierte: el dispositivo, diseñado para clasificar y controlar documentos relacionados a la ofimática, se convierte en un medio para cuestionar la representación plana del cuerpo, capturando el aura de cada imagen, señalando la pérdida de memoria colectiva en archivos digitales serializados, encerrados en ese tiempo y espacio mencionado anteriormente, acotado para estandarizar sus diferentes realidades.
+
+Por ende, si toda técnica conlleva un tipo de pensamiento, todo cuerpo de obra es una poética filosófica sobre una realidad a representar y repensar. Así, está investigación pretende situar por medio de referentes teórico-prácticos una amalgama conceptual, en la cual se articula un trabajo en proceso que discute con algunos creadores y pensadores que abordan el control de las realidades objetivas y subjetivas del hoy como problema representacional de los cuerpos, procurando una discusión de ideas sobre el despojo utilitario como rutina de las tecnologías que han quedado reducidas al ejercicio dominante del capitalismo tardío postfordista. 
 
 #### Proceso:
 Intérprete de comando sh executable ft.sh (Puedes renombrar tu archivo como quieras. Recuerda hacerlo en los demas códigos donde se señala su ruta de acceso)
